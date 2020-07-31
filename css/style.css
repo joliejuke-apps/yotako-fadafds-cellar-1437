@@ -1,0 +1,329 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style3 {
+  background-image: url(https://designresources.assets.yotako.io/87fgw4x2kd9smzio.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: -.004781087239583333vw;
+  margin-top: 171.33987991898147vh;
+  width: 77.7398173014323vw;
+  height: 18.100484212239582vw;
+  z-index: 2
+}
+.designbilfootprintimage2col0 {
+  display: flex;
+  margin-left: 7.29644775390625vw;
+  margin-top: 3.04840087890625vw;
+  width: 16.666666666666668vw;
+  height: 10.208333333333334vw;
+  flex-direction: column
+}
+.style6 {
+  color: #fff;
+  font-family: open-sans-1,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-top: 0;
+  width: 15.104166666666666vw;
+  height: 4.479166666666667vw;
+  z-index: 5
+}
+.style7,
+.style8 {
+  display: flex;
+  width: 16.666666666666668vw;
+  height: 4.166666666666667vw
+}
+.style7 {
+  margin-top: 1.5625vw;
+  z-index: 6
+}
+.style8 {
+  border-left: .10416666666666667vw solid #fff;
+  border-right: .10416666666666667vw solid #fff;
+  border-top: .10416666666666667vw solid #fff;
+  border-bottom: .10416666666666667vw solid #fff;
+  z-index: 7;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style4,
+.style5,
+.style9 {
+  color: #fff;
+  font-family: open-sans-1,serif
+}
+.style9 {
+  text-align: center;
+  font-size: 1.25vw;
+  font-weight: 700;
+  z-index: 8
+}
+.style4,
+.style5 {
+  font-size: .8854166666666666vw;
+  font-weight: 300;
+  line-height: 1.25vw;
+  margin-left: 4.791666666666667vw;
+  margin-top: 3.4129842122395835vw;
+  width: 14.010416666666666vw;
+  height: 11.197916666666666vw;
+  z-index: 3
+}
+.style5 {
+  margin-left: 4.270833333333333vw;
+  width: 14.53125vw;
+  z-index: 4
+}
+.designbilfootprintimage2col3,
+.style10 {
+  position: relative;
+  display: flex;
+  width: 15.885836283365885vw;
+  height: 15.885836283365885vw
+}
+.designbilfootprintimage2col3 {
+  margin-left: 7.200450897216797vw;
+  margin-top: -1.9093958536783855vw;
+  flex-direction: column
+}
+.style10 {
+  background-image: url(https://designresources.assets.yotako.io/87fgw4x2kd9smzqz.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  margin-left: 0;
+  margin-top: 0;
+  z-index: 9;
+  flex-shrink: 0
+}
+.designbilfootprintimage2col3image3col0 {
+  display: flex;
+  margin-left: 7.744852701822917vw;
+  margin-top: 2.3516718546549478vw;
+  width: 2.021617889404297vw;
+  height: 2.856909434000651vw;
+  flex-direction: column
+}
+.style11 {
+  margin-left: .33165613810221356vw;
+  margin-top: 0;
+  width: 1.1403656005859375vw;
+  height: .8312352498372396vw;
+  z-index: 10
+}
+.style12 {
+  margin-left: 0;
+  margin-top: .43226877848307294vw;
+  width: 2.021617889404297vw;
+  height: 1.5934054056803386vw;
+  z-index: 11
+}
+.style14 {
+  margin-left: 5.6357065836588545vw;
+  margin-top: 3.9775403340657554vw;
+  width: 2.891228993733724vw;
+  height: 2.8904342651367188vw;
+  z-index: 13;
+  flex-shrink: 0
+}
+.style15 {
+  color: #702f8a;
+  font-family: open-sans-1,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-left: 31.666666666666664vw;
+  margin-top: 14.444444444444443vh;
+  width: 22.65625vw;
+  height: 7.291666666666667vw;
+  z-index: 14
+}
+.designbilfootprintrow2 {
+  position: relative;
+  display: flex;
+  margin-left: 3.4090860684712725vw;
+  margin-top: 218.70370370370372vh;
+  width: 89.30135170618694vw;
+  flex-wrap: wrap
+}
+.designbilfootprintrow2col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 20.56828498840332vw;
+  min-width: 263.2740478515625px;
+  height: 51.297620137532554vw;
+  flex-direction: column
+}
+.style21 {
+  display: flex;
+  margin-left: 6.4867472648620605vw;
+  margin-top: 0;
+  width: 18.229166666666668vw;
+  height: 26.510416666666668vw;
+  z-index: 20
+}
+.designbilfootprintrow2col0container3col0 {
+  display: flex;
+  margin-left: 1.9270833333333333vw;
+  margin-top: 3.1033198038736978vw;
+  width: 14.375vw;
+  height: 17.93834686279297vw;
+  flex-direction: column
+}
+.style22 {
+  background-image: url(https://designresources.assets.yotako.io/87fgw4x2kd9sn1mu.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  position: relative;
+  display: flex;
+  margin-left: 4.311342239379883vw;
+  margin-top: 0;
+  width: 5.469198226928711vw;
+  height: 3.990325927734375vw;
+  z-index: 21
+}
+.style23,
+.style24 {
+  position: relative;
+  flex-shrink: 0
+}
+.style23 {
+  background-image: url(https://designresources.assets.yotako.io/87fgw4x2kd9sn1uf.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.228168487548828vw;
+  margin-top: .8386103312174479vw;
+  width: 2.544116973876953vw;
+  height: 3.2991536458333335vw;
+  z-index: 22
+}
+.style24 {
+  margin-left: -.8199691772460938vw;
+  margin-top: 1.0588582356770833vw;
+  width: 1.6986020406087239vw;
+  height: 2.877044677734375vw;
+  z-index: 23
+}
+.style25 {
+  color: #fff;
+  text-align: center;
+  font-family: open-sans-1,serif;
+  font-size: 1.25vw;
+  font-weight: 700;
+  margin-left: 1.31606658299764vw;
+  margin-top: 2.7204513549804688vw;
+  width: 11.755034923553467vw;
+  height: 3.4375vw;
+  z-index: 24
+}
+.style26,
+.style27 {
+  display: flex;
+  width: 14.375vw;
+  height: 5.729166666666667vw
+}
+.style26 {
+  margin-left: 0;
+  margin-top: 2.0609029134114585vw;
+  z-index: 25
+}
+.style27 {
+  border-left: .10416666666666667vw solid #fff;
+  border-right: .10416666666666667vw solid #fff;
+  border-top: .10416666666666667vw solid #fff;
+  border-bottom: .10416666666666667vw solid #fff;
+  z-index: 26;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style28 {
+  color: #fff;
+  text-align: center;
+  font-family: open-sans-1,serif;
+  font-size: 1.25vw;
+  font-weight: 700;
+  z-index: 27
+}
+.style1 {
+  margin-left: 0;
+  margin-top: 4.21875vw;
+  width: 20.56828498840332vw;
+  height: 20.568453470865887vw;
+  z-index: 0
+}
+.style16 {
+  display: flex;
+  margin-left: 7.689295609792073vw;
+  margin-top: 9.635416666666666vw;
+  width: 18.177083333333332vw;
+  min-width: 232.66666666666666px;
+  height: 28.645833333333332vw;
+  z-index: 15;
+  align-items: center;
+  flex-direction: column
+}
+.style17 {
+  object-fit: cover;
+  margin-top: 2.1875vw;
+  width: 5.78125vw;
+  height: 5.729166666666667vw;
+  z-index: 16;
+  align-self: center;
+  border-radius: .8333333333333334vw
+}
+.style18 {
+  color: #fff;
+  text-align: center;
+  font-family: open-sans-1,serif;
+  font-size: 1.25vw;
+  font-weight: 700;
+  margin-top: 1.1458333333333333vw;
+  width: 11.770833333333334vw;
+  height: 5.15625vw;
+  z-index: 17;
+  align-self: center
+}
+.style19,
+.style20 {
+  object-fit: cover;
+  margin-top: 1.6666666666666667vw;
+  width: 10.729166666666666vw;
+  height: 3.6979166666666665vw;
+  z-index: 19;
+  align-self: center
+}
+.style19 {
+  margin-top: 1.1458333333333333vw;
+  width: 10.78125vw;
+  height: 3.90625vw;
+  z-index: 18
+}
+.style29 {
+  margin-left: 3.2291666666666665vw;
+  margin-top: 8.272692362467447vw;
+  width: 39.63752110799154vw;
+  min-width: 507.3602701822917px;
+  height: 13.212292989095053vw;
+  z-index: 28;
+  flex-grow: 1
+}
+.breakpoint-0 {
+  display: block
+}
